@@ -1,5 +1,11 @@
 export interface PillProps
 {
-    title: string
+    title: string;
 
+}
+
+export interface ButtonProps
+{
+    title:string;
+    styles:string;
 }
